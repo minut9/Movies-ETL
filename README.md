@@ -21,3 +21,7 @@ The pic below is the ratings determined by the new DataFrame created
 The pic bewlo is the total movies in the created movie DataFrame
 
 <img width="450" alt="ratings_query" src="https://user-images.githubusercontent.com/86068655/173499126-dc0da12c-4d18-436e-aecb-19e5ea5fa1a1.png">
+
+
+## Summary 
+This project shows the systematic approach to ETL and how to manage data from different sources. This project gave a clear methodology to gathering data info a workable form to easily manipulate and analyze to find a certain result.  
