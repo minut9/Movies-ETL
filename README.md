@@ -18,7 +18,7 @@ The pic below is the ratings determined by the new DataFrame created
 
 <img width="450" alt="movies_query" src="https://user-images.githubusercontent.com/86068655/173499114-30c01bcc-b647-4af1-9581-68319f337abc.png">
 
-The pic bewlo is the total movies in the created movie DataFrame
+The pic below is the total movies in the created movie DataFrame
 
 <img width="450" alt="ratings_query" src="https://user-images.githubusercontent.com/86068655/173499126-dc0da12c-4d18-436e-aecb-19e5ea5fa1a1.png">
 
